@@ -1,0 +1,13 @@
+nodejs 10.19
+
+Setup GIT and set email
+
+Create GIT Repository
+Create a FOlder in your drive ( C:\GIT)
+
+in cmd prompt go to this folder and say
+git clone repository url
+
+SPFX 1.0 - 2016
+1.4 - 2019
+Latest SPFx is only for Online
